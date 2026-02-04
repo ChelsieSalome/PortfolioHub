@@ -1,6 +1,6 @@
 # Cloud Infrastructure & Automation Portfolio
 
-Hey! I'm Chelsie. These repositories represent collaborative lab work completed at BCIT where I worked alongside my peers to build real-world infrastructure automation solutions. The emphasis was on learning modern DevOps practices, infrastructure as code principles, and cloud engineering skills.
+Hello, I'm Chelsie. These repositories represent collaborative lab work completed at BCIT where I worked alongside my peers to build real-world infrastructure automation solutions. The emphasis was on learning modern DevOps practices, infrastructure as code principles, and cloud engineering skills.
 
 The links below point to the repos where you can see the work and serve as a reference for the technical skills and experience outlined in my resume.
 
