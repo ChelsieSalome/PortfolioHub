@@ -10,7 +10,7 @@ The links below point to the repos where you can see the work and serve as a ref
 
 | Technology | Repository | What I Built |
 |------------|-----------|--------------|
-| **Terraform & Modules** | [4640-lab-wk9]((https://github.com/GillJaskiart/4640-lab-wk9/tree/main/terraform)| AWS infrastructure automation: EC2 deployment, VPC networking, security groups, IAM policies, subnet routing, reusable modules |
+| **Terraform & Modules** | [4640-lab-wk9](https://github.com/GillJaskiart/4640-lab-wk9/tree/main/terraform)| AWS infrastructure automation: EC2 deployment, VPC networking, security groups, IAM policies, subnet routing, reusable modules |
 | **Packer** | [packer-lab5](https://github.com/gitromi/ACIT4640_Lab5/blob/main/web-front.pkr.hcl) | Custom AMI creation with automated provisioners, standardized base images, Terraform workflow integration |
 | **AWS CLI** | [aws-cli-lab3](https://github.com/ChelsieSalome/lab-week3-aws-cli/blob/main/create-vpc) | Infrastructure management scripts, network configuration (DHCP, security groups, routing), monitoring automation |
 | **Ansible** | [4640-in-class-wk10]((https://github.com/GillJaskiart/4640-in-class-wk10/tree/main/ansible)| automated configuration management and consistent web server provisioning |
