@@ -19,7 +19,7 @@ The links below point to the repos where you can see the work and serve as a ref
 | **Kubernetes** | [Kubernetes-labs](https://github.com/ChelsieSalome/Kubernetes-labs)| Implemented container orchestration with Kubernetes, deploying applications using pods, deployments, replica sets, and services while testing workload scaling, high availability, and cluster-based application management  |
 
 
-**Technologies:** Terraform • Ansible • Packer • AWS (EC2, VPC, IAM, CLI) • Bash • Git • Linux
+**Technologies:** CI/CD • Terraform • Ansible • Packer • AWS (EC2, VPC, IAM, CLI) • Bash • Git • Linux • Docker • Kubernetes
 
 ---
 
