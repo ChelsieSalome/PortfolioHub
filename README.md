@@ -17,6 +17,7 @@ The links below point to the repos where you can see the work and serve as a ref
 | **Ansible** | [4640-in-class-wk10](https://github.com/GillJaskiart/4640-in-class-wk10/tree/main/ansible)| automated configuration management and consistent web server provisioning |
 | **Docker** | [acit3495-project-1](https://github.com/ChelsieSalome/acit3495-project-1/blob/main/docker-compose.yml)| A containerized microservices data collection and analytics system, wrote a **Dockerfile** for each service, and a **Docker-Compose** file to run the system  |
 | **Kubernetes** | [Kubernetes-labs](https://github.com/ChelsieSalome/Kubernetes-labs)| Implemented container orchestration with Kubernetes, deploying applications using pods, deployments, replica sets, and services while testing workload scaling, high availability, and cluster-based application management  |
+| **Microservices & Load Testing** | [3855-lab7](https://github.com/ChelsieSalome/3855-lab7)| Designed and deployed Dockerized microservices on Azure VM using Docker Compose, built OpenAPI-defined REST endpoints, and executed JMeter load testing with structured logging and trace identifiers to validate and monitor service interactions. |
 
 
 **Technologies:** CI/CD • Terraform • Ansible • Packer • AWS (EC2, VPC, IAM, CLI) • Bash • Git • Linux • Docker • Kubernetes
